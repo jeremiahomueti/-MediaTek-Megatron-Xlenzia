@@ -1,0 +1,2 @@
+Media queries allow us to modify our styles depending on 
+particuluar parameters like screen width or device type. 
